@@ -1,3 +1,7 @@
 html, body{
     color: red;
 }
+
+.logo{
+    max-width: 100px;
+}
